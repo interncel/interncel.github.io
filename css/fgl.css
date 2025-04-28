@@ -1,0 +1,7 @@
+body {
+    background: url("../images/lain.gif") fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #000000;
+    background-size: contain;
+}
